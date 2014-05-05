@@ -1,0 +1,28 @@
+{
+  "name": "deepjs.org",
+  "main": "./index.html",
+  "version": "0.1.0",
+  "homepage": "",
+  "authors": [
+    "Philippe Delabye <phil@chemicalrules.net>"
+  ],
+  "description": "official website of the deepjs framework",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": ">= v3.0.3",
+   	"jquery": ">= 2.0.3",
+    "rql": ">= 0.3.1",
+    "jStorage": ">= v0.4.8",
+    "requirejs": ">= 2.1.10",
+    "deepjs": "git@github.com:deepjs/deepjs.git#master",
+    "deep-swig": "git@github.com:deepjs/deep-swig.git#master",
+    "deep-browser": "git@github.com:deepjs/deep-browser.git#master",
+    "deep-routes": "git@github.com:deepjs/deep-routes.git#master",
+    "deep-data-bind": "git@github.com:deepjs/deep-data-bind.git#master",
+    "deep-local-storage": "git@github.com:deepjs/deep-local-storage.git#master",
+    "deep-jquery": "git@github.com:deepjs/deep-jquery.git#master",
+    "deep-widgets": "git@github.com:deepjs/deep-widgets.git#master"
+    }
+}
+

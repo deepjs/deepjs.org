@@ -1,0 +1,28 @@
+{
+  "name": "deepjs.org",
+  "version": "0.1.0",
+  "description"   : "official website of the deepjs framework",
+  "author"        : "Philippe Delabye <phil@chemicalrules.net>",
+  "contributors"  : ["Philippe Delabye  <phil@chemicalrules.net>"],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/deepjs/deepjs.org.git"
+  },
+  "keywords": [
+    "deepjs",
+    "singlePage",
+    "browser"
+  ],
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt-requirejs": "~0.4.1",
+    "grunt": "~0.4.4",
+    "grunt-http-server": "0.0.4",
+    "grunt-processhtml": "~0.3.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
